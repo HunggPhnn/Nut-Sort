@@ -1,0 +1,29 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+sysinfo.txt
+
+# Crash & build
+*.apk
+*.aab
+*.unitypackage
+
+# IDE files
+.vs/
+.idea/
+*.sln
+*.csproj
+*.user
+*.userprefs
+
+# OS
+.DS_Store
+Thumbs.db
